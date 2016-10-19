@@ -1,0 +1,148 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_71 (Oracle Corporation)
+
+Name: assets/download.png
+SHA1-Digest: CJloQ7WgDPXOSwcXIzBCRxSBcb0=
+
+Name: res/anim/slide_v_enter_reverse.xml
+SHA1-Digest: o6y8sVtIX+U/IVLmssNNO0HLJhM=
+
+Name: res/anim/slide_exit.xml
+SHA1-Digest: ZX/raIXCvGGzgu+fvnYbcbkwl5o=
+
+Name: assets/images(3).jpg
+SHA1-Digest: ZSQlUmJQraXkiygBtHiirRGWaZg=
+
+Name: assets/images(5).jpg
+SHA1-Digest: NPfbT4oKpaoQoYVxy1KgyHqSDF0=
+
+Name: assets/download(2).jpg
+SHA1-Digest: AjGu5FX1PKn7heAZq9hKbyy26bM=
+
+Name: assets/images(4).jpg
+SHA1-Digest: TNRjMNWtIVrWNnQ0N1D3yYiLWEE=
+
+Name: assets/lamborghini_gallardo_lp560_4_3-1440x9001.jpg
+SHA1-Digest: ARbuXGu+rPe2zYbJerBI8rvx/Wk=
+
+Name: assets/lamborghini_gallardo_lp560_4_3-1440x900.jpg
+SHA1-Digest: DbWjrq5L11Hou0FO3BuQ/PCrqCw=
+
+Name: assets/images2.jpg
+SHA1-Digest: BWj2OxDENOdrixe8hNzhyZX7V2Q=
+
+Name: res/anim/slide_enter_reverse.xml
+SHA1-Digest: G+o6PF81lzJHZGjIIUdM6ZH67RI=
+
+Name: assets/toyota.jpg
+SHA1-Digest: pmSJjC2DJNw/kfdCLhPzrfBP9ho=
+
+Name: assets/images.png
+SHA1-Digest: m/trttH+W5klOmdJgbLObNFF/U4=
+
+Name: assets/download(1).jpg
+SHA1-Digest: pEA8IZOqmD2GDvWjBmF32VS84vk=
+
+Name: assets/download(4).jpg
+SHA1-Digest: EsmAOcwa0JbOMfeL5KdGBk7EZ4s=
+
+Name: assets/1bmwcarwallpaper.jpg
+SHA1-Digest: W3tSbX8xtUqOc7Oih3uNO2emjzs=
+
+Name: resources.arsc
+SHA1-Digest: 4QkSeIeUi9Bwi+yJVCWw8OrHAD0=
+
+Name: assets/download(3).jpg
+SHA1-Digest: M5jILabW12qLPEkYR+2LSSQEZH8=
+
+Name: assets/Porsche-Cayman-GT-Android-Background-Full-Screen-HiRes-Wa
+ llpaper.jpg
+SHA1-Digest: gPt4WLVjObf5CdNdZC36UkG83AM=
+
+Name: res/anim/slide_enter.xml
+SHA1-Digest: Zq8vc9Y86WEOwIHvd2vvnF5LAjU=
+
+Name: assets/www.mobilesmspk.net_nice-car_1146.jpg
+SHA1-Digest: MJrCcYBLP7Fc3RIYXPC9l8WoQl0=
+
+Name: assets/images(5).png
+SHA1-Digest: 8mCJu30J2g+P13ykhfXC2Lq9Kpc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: bSimHf/1qPoOhnU+Cn5Ee0qLjVc=
+
+Name: assets/images(4).png
+SHA1-Digest: 1rt1CbBoiz4NP6MHQsUvJVCDT+g=
+
+Name: assets/download.jpg
+SHA1-Digest: fFEUA3J7sL8rw0pg7uR7Gt+OASU=
+
+Name: assets/images(1).jpg
+SHA1-Digest: /2SXM0tEc4w59EGQzn+xXNEi9VA=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: 1RFOJzpf/Tnrt6Cz+YXKri/dcQs=
+
+Name: res/anim/hold.xml
+SHA1-Digest: GKBZZAVQp1UHWpdLvgRKYsaN968=
+
+Name: assets/54f0b93e1ccd6c2e19daf922_car-icon.png
+SHA1-Digest: Wv9uLpStdft32FS611awjqOGn5o=
+
+Name: res/anim/zoom_enter.xml
+SHA1-Digest: AI9U9jd8y+rlzUpfZu9q4VZpvP0=
+
+Name: res/drawable/ya.png
+SHA1-Digest: RRmkx8OEWWD1Yp0KeGnc39PeL5M=
+
+Name: assets/1354164298_suzuki-logo_0_0_0.jpg
+SHA1-Digest: pbS5MsqLDdaR/+vMm/ai191eUnA=
+
+Name: assets/images(2).jpg
+SHA1-Digest: HZTfsRTt88/ieqqFRD9GgrGd0+0=
+
+Name: assets/images(3).png
+SHA1-Digest: KuvEc0WEEUy1ssXxXU47Iyv0lx8=
+
+Name: assets/images(6).jpg
+SHA1-Digest: RJj2oHh5q2U1aLF1dL/A0PYJRAc=
+
+Name: res/anim/slide_v_exit_reverse.xml
+SHA1-Digest: BmxIVohKX0sSkZa5gB/EAfFftlU=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: xsEvJd6+HxCGf8W9bRNyDJagnZ0=
+
+Name: res/anim/zoom_enter_reverse.xml
+SHA1-Digest: kvKMcrPGTjRGBwIpiaKwUQ4F/bY=
+
+Name: classes.dex
+SHA1-Digest: 4IH2Q2DfWvu4jTvckRCxXHPNka0=
+
+Name: res/anim/zoom_exit.xml
+SHA1-Digest: ioBRfr3sxqvTP2Dsfg9bfrBu5NA=
+
+Name: assets/images(1).png
+SHA1-Digest: nr+sQ3unOTwChJhNp0CxO9yIRY0=
+
+Name: res/anim/slide_exit_reverse.xml
+SHA1-Digest: VE6Oh3BHy1caiImNmGoeHwMHt/I=
+
+Name: res/anim/slide_v_exit.xml
+SHA1-Digest: 9lXf30b08R2I7vWxAXL3x4EnFZU=
+
+Name: res/anim/slide_v_enter.xml
+SHA1-Digest: VwO+DjHaulKaPlqfDFwicM7taAM=
+
+Name: assets/images(7).jpg
+SHA1-Digest: gEY50ofrE1r1QuSACuyGRvoY8ug=
+
+Name: assets/images(2).png
+SHA1-Digest: 7FzHIXL+RSSiiz/yGIQWnIemB3o=
+
+Name: assets/images(8).jpg
+SHA1-Digest: ecqptXwU38owZcymarY9AQohMJw=
+
+Name: res/anim/zoom_exit_reverse.xml
+SHA1-Digest: kzP0svpVXrshXRVnbxlRXjrmKZo=
+
